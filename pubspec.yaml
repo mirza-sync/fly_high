@@ -24,6 +24,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_bluetooth_serial: ^0.2.2
+  graphql_flutter: ^3.0.0
 
 
   # The following adds the Cupertino Icons font to your application.
